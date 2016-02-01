@@ -52,9 +52,9 @@ Mat imQuantize(Mat src,int levels[],int length, int type)
     inRange(src, cv::Scalar(levels[i-1]), cv::Scalar(max), tmp);
     if(type==1){tmp = (tmp/255)*(i);}
     if(type==0){tmp = (levels[i])*tmp/255;}}
-}
     //take or consecutively to get the output image	
     bitwise_or(tmp,out,out);
+    }
     // return output		   	   		    
     return out;
 }
