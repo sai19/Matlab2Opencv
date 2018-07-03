@@ -1,6 +1,4 @@
 /*
-Author : Saiprasad Koturwar (IIT Bombay,Dept.Electrical Engineering)
-Email-id : s.koturwar@gmail.com
 This is the driver function for stdfilt(opencv implementation of matlab standard deviation filter function)
 */
 
@@ -9,7 +7,7 @@ This is the driver function for stdfilt(opencv implementation of matlab standard
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
 // include the imQuantize.cpp file (input the appropriate path)
-#include </home/sai/scilab/imQuantize/imQuantize.cpp>
+#include <path to imquantize>
 
 using namespace cv;
 using namespace std;
