@@ -1,17 +1,10 @@
 /*
-Author : Saiprasad Koturwar (IIT Bombay,Dept.Electrical Engineering)
-Email-id : s.koturwar@gmail.com
 This is the driver function for stdfilt(opencv implementation of matlab standard deviation filter function)
 */
-
-
-
-
-
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
 // include the stdfilt.cpp file (input the appropriate path)
-#include </home/sai/scilab/stdfilt/stdfilt.cpp>
+#include <path to stdfilt.cpp>
 
 using namespace cv;
 using namespace std;
