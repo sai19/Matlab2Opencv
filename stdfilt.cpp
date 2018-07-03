@@ -1,6 +1,4 @@
 /*
-Author : Saiprasad Koturwar (IIT Bombay,Dept.Electrical Engineering)
-Email-id : s.koturwar@gmail.com
 stdfilt(opencv implementation of matlab standard deviation filter function) function is defined here
 */
 
