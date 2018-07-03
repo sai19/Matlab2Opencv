@@ -1,6 +1,4 @@
 /*
-Author : Saiprasad Koturwar (IIT Bombay,Dept.Electrical Engineering)
-Email-id : s.koturwar@gmail.com
 imQuantize(opencv implementation of matlab imQuantize function) function is defined here
 */
 
